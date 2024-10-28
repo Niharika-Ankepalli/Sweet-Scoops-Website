@@ -1,0 +1,137 @@
+/* Basic Styling */
+body {
+    font-family: 'Comic Sans MS', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff3e0;
+    color: #333;
+    text-align: center;
+}
+
+/* Header Styling */
+header {
+    background-color: #ff7043;
+    color: white;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #ffcc80;
+    padding: 20px;
+}
+
+.hero-img {
+    width: 100%;
+    max-width: 800px;
+    border-radius: 10px;
+}
+
+/* Flavors Section */
+.flavors {
+    padding: 20px;
+    background-color: #ffe0b2;
+    margin: 20px auto;
+    max-width: 700px;
+    border-radius: 8px;
+}
+
+.flavors h2 {
+    color: #e65100;
+}
+
+.flavor-gallery {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.flavor {
+    max-width: 200px;
+    text-align: center;
+}
+
+.flavor img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.flavors a {
+    color: #e65100;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.flavors a:hover {
+    text-decoration: underline;
+}
+
+/* Reviews Section */
+.reviews {
+    padding: 20px;
+    background-color: #ffd54f;
+    margin: 20px auto;
+    max-width: 700px;
+    border-radius: 8px;
+}
+
+/* Meet the Team Section */
+.team {
+    padding: 20px;
+    background-color: #b2ebf2;
+    margin: 20px auto;
+    max-width: 700px;
+    border-radius: 8px;
+}
+
+.team img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+}
+
+/* Special Flavor Section */
+.special-flavor {
+    padding: 20px;
+    background-color: #ffab91;
+    margin: 20px auto;
+    max-width: 700px;
+    border-radius: 8px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: white;
+    background-color: #ff8a65;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #e65100;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #4e342e;
+    color: white;
+    padding: 10px;
+}
+
+footer a {
+    color: #ffccbc;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
