@@ -5,7 +5,7 @@ This website is created for **Sweet Scoops Ice Cream Shop**, presenting a variet
 ## 🚀 Live Demo
 [Visit the site](https://sweet-scoops-shop.netlify.app/)
 
-## 🔧 Technologies Used
+##  Technologies Used
 - **HTML5**
 - **CSS3**
 - **JavaScript**
